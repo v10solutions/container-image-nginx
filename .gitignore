@@ -1,0 +1,10 @@
+#
+# Container Image NGINX
+#
+
+.nova/
+.vscode/
+*.env
+**/.DS_Store
+
+.output/

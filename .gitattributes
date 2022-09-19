@@ -1,0 +1,7 @@
+#
+# Container Image NGINX
+#
+
+etc/nginx/ca.pem binary
+etc/nginx/tls-cer.pem binary
+etc/nginx/tls-key.pem binary
